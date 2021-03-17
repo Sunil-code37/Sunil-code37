@@ -16,7 +16,7 @@ const Sunil = {
   code: [Python, R, SQL, VBA, Spark],
   toolkit: [Numpy, Pandas, Sklearn, Keras, Tensorflow],
   Visualisation: [Plotly, dash, matplotlib, seaborn, ggplot, Tableau, Power Bi],
-  Web Tools: [Google/Adobe Analytics, UX, CRO, seaborn, ggplot, Tableau, Power Bi],
+  Web Tools: [Google/Adobe Analytics, UX, CRO, A/B Testing, Digital Marketing, SEO, PPC],
   InProgress: {
 		Certification: " AI Fundamentals  ",
 		My_First_Data_Lake: "Python_Labs[DSTI]",
